@@ -1,1 +1,18 @@
-
+body{
+    background-color:slategray
+    }
+    
+    Estilizar o título principal do seu site:
+     h1{
+    color:navy ;
+    font-family: ;
+    background:dimgray ;
+    }
+    
+    Estilizar os parágrafos:
+    p{
+    color:dimgray ;
+    font-family: ;
+    font-size: ;
+    background: ;
+    }
