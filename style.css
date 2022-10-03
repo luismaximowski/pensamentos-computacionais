@@ -2,10 +2,11 @@ body{
     background-color:slategray
     }
     
-     h1{
+     h1{ 
     color:rgb(0, 0, 0) ;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     background:rgb(8, 154, 173) ;
+    text-align: center;
     }
     
     :
