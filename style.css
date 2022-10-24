@@ -19,7 +19,7 @@ body{
     }
 
     #Boots {
-        text-align: center;
+      -ms-flex-align: center;
         width: 100%;
     }
     
