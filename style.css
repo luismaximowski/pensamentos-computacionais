@@ -1,5 +1,4 @@
-body{
-    background-color:slategray
+ background-color:slategray
     }
     
      h1{ 
@@ -27,7 +26,8 @@ body{
     }
     
 
-    #Boots {
+    #Boots {body{
+   
         width: 100%;
     }
     
