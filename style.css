@@ -21,6 +21,12 @@ body{
     text-align: center;
     }
 
+    .container{
+        width: 10%;
+        margin: 0 auto;
+    }
+    
+
     #Boots {
         width: 100%;
     }
