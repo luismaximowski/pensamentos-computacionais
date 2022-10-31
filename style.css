@@ -1,4 +1,4 @@
-[body] 
+body{
  
  background-color:slategray
     }
@@ -28,7 +28,7 @@
     }
     
 
-    #Boots {body{
+    #Boots {
    
         width: 100%;
     }
